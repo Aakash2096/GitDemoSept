@@ -1,0 +1,7 @@
+git init
+git config user.name
+git status
+
+--for global level
+
+git config -g user.name
