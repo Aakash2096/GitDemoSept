@@ -2,6 +2,13 @@ git init
 git config user.name
 git status
 
+// to create a new feature we create a new branch
+-- branching
+git branch
+git checkout
+
+
+
 --for global level
 
 git config -g user.name
