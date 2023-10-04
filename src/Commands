@@ -25,3 +25,5 @@ git config -g user.name
 1st entry key -> origin
 git remote origin "link"
 committed changes will go
+
+//let see if we get changes reflected on remote repo
