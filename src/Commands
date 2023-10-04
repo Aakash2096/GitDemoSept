@@ -1,14 +1,27 @@
 git init
 git config user.name
 git status
+git log
 
 // to create a new feature we create a new branch
 -- branching
 git branch
 git checkout
 
+master--> fb
+git checkout -b branchName || create the branch and move to new branch
+
 
 
 --for global level
 
 git config -g user.name
+
+
+ we can conncet our local repo to multiple remote repos
+
+"name of remote repo[key]" -> "link"
+
+1st entry key -> origin
+git remote origin "link"
+committed changes will go
